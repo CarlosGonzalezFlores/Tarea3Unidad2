@@ -1,0 +1,2 @@
+class tareas:
+    pass
